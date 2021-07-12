@@ -34,12 +34,12 @@ mailtest.sh
 ```
 /home/today/crontab_labduty/main.py
 ```
-であり、MemberList.txtに日直を回したいメンバーを一人ずつ改行して記述することによって、
+MemberList.txtに日直を回したいメンバーを一人ずつ改行して記述することによって、
 main.pyが平日の日程とメンバーを関連付けてlist.txtを出力してくれる。
 ただ、このmain.pyがどのように実行されているのかは現在不明
 (mailtest.shを起動するとなぜか、list.txtも更新されるが、mailtest.shにはmain.pyを実行する記述はない Orz)
 
-##　やればいいこと(ここだけ読んでくれたらOK)
+## やればいいこと(ここだけ読んでくれたらOK)
 
 - 日直のメンバーを更新したい
   - Memberlist.txtを更新すれば良い
