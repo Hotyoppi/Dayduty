@@ -6,7 +6,7 @@
 $ ssh today@crypto-cybersec.comm.eng.osaka-u.ac.jp
 $ ssh today@133.1.144.136
 ```
-上記のどちらでもログイン可能。pwはcy2secNow
+上記のどちらでもログイン可能。
 
 ## 日直メールの仕組み
 ログインした後、直下に次のようなファイルがあるはず
