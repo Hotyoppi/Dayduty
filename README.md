@@ -1,6 +1,6 @@
-#　日直メールの設定方法
+# 日直メールの設定方法
 
-##　宮地研メールサーバーへのログイン
+## 宮地研メールサーバーへのログイン
 
 ```
 $ ssh today@crypto-cybersec.comm.eng.osaka-u.ac.jp
